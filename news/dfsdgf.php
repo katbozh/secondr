@@ -1,2 +1,2 @@
 <?php
-cfbcbgv
+echo "Hello";
